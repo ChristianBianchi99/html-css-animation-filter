@@ -80,5 +80,19 @@
     }
 }
 /* Esercizio 11 */
+.ex-11-icon:hover {
+    animation: rotation 2s linear;
+}
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    90% {
+        transform: rotate(310deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
 /* Esercizio 12 */
 /* Esercizio 13 */
