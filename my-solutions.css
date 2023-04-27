@@ -48,6 +48,13 @@
     filter: sepia(75%);
 }
 /* Esercizio 8 */
+.ex-8-img {
+    transition: all 1.5s;
+}
+.ex-8-img:hover {
+    filter: sepia(75%);
+    border-radius: 20px;
+}
 /* Esercizio 9 */
 /* Esercizio 10 */
 /* Esercizio 11 */
